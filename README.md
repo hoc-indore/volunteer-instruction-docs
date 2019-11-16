@@ -8,10 +8,10 @@ This repository links to all the important instructions and documents necessary 
 Dear Volunteer, Welcome to HoC Indore, 2019 edition. Together, we will make this chapter of Indore a memorable and learning experience for the school students, institutions and us the volunteers alike! This section will give you basic information necessary to get you started.
 
 ## The Team
-HoC Indore is a combined effort of all the active tech community members in the Indore City. It is being made possible because of these organizations including but not limited to the following:
+HoC Indore is a combined effort of all the active tech community members in the Indore City. It is being made possible because of various organizations including but not limited to the following:
 
 
-|#|	Chapter Name|	Supporting Organization|
+|#|Chapter Name|Supporting Organization|
 |---|---|---|
 |1|Facebook Developer Circle, Indore|Facebook|
 |2|Women in Data Science|Google|

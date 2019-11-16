@@ -2,7 +2,7 @@
 This repository links to all the important instructions and documents necessary for volunteer training.
 
 + [Jump to Assets Links](#links)
-+ [Know how to contribute to or edit this Repository](CONTRIBUTING.md)
++ [Know how to contribute to or edit this repository](CONTRIBUTING.md)
 
 ## Welcome
 Dear Volunteer, Welcome to HoC Indore, 2019 edition. Together, we will make this chapter of Indore a memorable and learning experience for the school students, institutions and us the volunteers alike! This section will give you basic information necessary to get you started.

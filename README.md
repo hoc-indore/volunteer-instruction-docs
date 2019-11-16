@@ -28,6 +28,7 @@ With the help of these communities, we all have become a strong team of more tha
 
 ### Phase Zero - Initialization
 _14th Nov 2019 to 18th Nov 2019_
+
 Finalization of coordination committee, wings and wing coordinators
 
 ### Phase One - Preparation

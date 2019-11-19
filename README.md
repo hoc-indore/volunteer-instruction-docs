@@ -14,7 +14,7 @@ HoC Indore is a combined effort of all the active tech community members in the 
 |#|Chapter Name|Supporting Organization|
 |---|---|---|
 |1|Facebook Developer Circle, Indore|Facebook|
-|2|Women in Data Science|Google|
+|2|Women in Data Science|Stanford University|
 |3|GDG Cloud|Google|
 |4|GDG Indore|Google|
 |5|Indore Technical Community|Independent|

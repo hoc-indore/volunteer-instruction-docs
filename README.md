@@ -51,6 +51,6 @@ HoC officially starts 9th of December, we will extend it for two weeks and start
 Here are the links to get you started:
 
 1. [The Execution Plan](https://docs.google.com/document/d/1nEO1RG0mVLMN2SeDmJcaJ6VJQT3gTfDdj4s2_uBQwOg/edit?usp=sharing)
-2. [The Presentation Deck]()
+2. [The Presentation Deck](Volunteer Instructions & Guidance/Volunteer Introduction Guide.pdf)
 3. [List of Organization Wings]()
 4. [Link to WhatsApp Group](https://bit.ly/2XoCXCu)

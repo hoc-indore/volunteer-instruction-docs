@@ -1,7 +1,8 @@
 # Coordination Wings and Deadlines
 This document explains different coordination wings in which HOC Indore execution is divided into and then different tasks as have been planned out which needed to be completed by various wings with the expected deadline.
 
-+ [Jump to Wings Description](#wings)
++ [Jump to wings description & key deadlines information](#wings)
++ [See the master list of all volunteers](volunteers-list-hoc-2019-indore.pdf)
 
 ## The Phases
 To start out, it is imperative to first revise the execution phases as decided.

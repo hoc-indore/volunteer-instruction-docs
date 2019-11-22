@@ -1,6 +1,8 @@
 # Coordination Wings and Deadlines
 This document explains different coordination wings in which HOC Indore execution is divided into and then different tasks as have been planned out which needed to be completed by various wings with the expected deadline.
 
++ [Jump to Wings Description](#wings)
+
 ## The Phases
 To start out, it is imperative to first revise the execution phases as decided.
 
@@ -13,7 +15,7 @@ Finalization of coordination committee, wings and wing coordinators
 _19th Nov 2019 to 24th Nov 2019_
 - [ ] Preparing pitch for schools and partner institutions
 - [ ] Preparing first stage of marketing material for online marketing
-- [ ] Volunteer allotment for next phases
+- [x] Volunteer allotment for next phases
 
 ### Phase Two - On-Boarding
 _25 Nov 2019 to 01 Dec 2019_
@@ -27,7 +29,7 @@ HoC officially starts 9th of December, we will extend it for two weeks and start
 
 
 
-## The Wings
+## <a name="wings"></a> The Wings
 ### 1. Accounts and Fund Management
 #### Role & Responsibilities
 + Looking for program partners and managing expenses being incurred during, before or after the event.
@@ -36,10 +38,12 @@ HoC officially starts 9th of December, we will extend it for two weeks and start
 + Managing reimbursement to team members in case of extra or emergency funding
 
 #### Wing Coordinators
-TBD
++ Savvy Jain
 
 #### Key Deadlines
-(will be updated as the program moves ahead)
+##### By 24th November
++ Create an expenditure guideline document which will be used to plan out the budget. The document should include which and what will be covered in the expenditure and what amount will be reimbursed and which amount won’t be.
++ Create a budget sheet estimating various assets which will be required to get an estimated projection. The assets may include marketing materials like standees, flexes, stickers, badges etc.
 
 
 ### 2. School Onboarding & Monitoring
@@ -59,10 +63,21 @@ TBD
 + Preparing proper feedback form and ensuring the same is filled-up and submitted back by school authority post execution.
 
 #### Wing Coordinators
-TBD
++ Akshay Malviya
++ Namit Doshi
++ Simran Makhija
 
 #### Key Deadlines
-(will be updated as the program moves ahead)
+##### By 24th November
++ Prepare the following documents
+    + On paper creative single A4 or A5 4 page proposal explaining various aspects of HoC, its past achievements and whats there for the students and the school.
+    + Onboarding form which will be shared with the school authority with media permission, infrastructure availability, grades/classes being involved and their prior experiencewith HoC and computer science.
++ Create an email template to be sent to school along with the help from IT team.
++ Prepare a dashboard Excel sheet to manage potential schools to be covered, connections of volunteers to the potential schools, track progress of on-boarding and information about single point of contact from volunteer and from school authority.
+
+##### By 30th November
++ Start filling up the on-boarding dashboard with feeds from various volunteers.
++ Once a school and date is finalized, broadcast the details to EC and VGT team to prepare the potential team which will be visiting and the courses which needs to be provided to the volunteers.
 
 ### 3. Volunteer Guidance & Training
 #### Role & Responsibilities
@@ -74,10 +89,20 @@ TBD
 + Also create a FAQ to prepare volunteers for the bottlenecks and answer some common questions which might be asked by school authorities or students.
 
 #### Wing Coordinators
-TBD
++ Aatmik Jain
++ Manas Bichoo
++ Srashti Jain
++ Madhvi Shelke
 
 #### Key Deadlines
-(will be updated as the program moves ahead)
+##### By 24th November
++ Get the list of all the potential courses which can be taken by school students according to the grades and infrastructure availability.
++ Start preparing the training document for training the volunteers and teaching them about common caveats and bottlenecks.
+
+##### By 30th November
++ Start getting list of schools as soon as they are finalized with the team size, experience and information about the potential student audience.
++ Create the list of courses which are planned for the school and the Plan B strategy for every school.
++ Once the team which is going to visit the school is finalized with the coordination from VGT and SOM wings, ensure all the volunteers visiting have gone through all the training materials being prepared by the VGT wing.
 
 ### 4. Online Promotion and Social Media
 #### Role & Responsibilities
@@ -91,10 +116,21 @@ TBD
 + Also recommended is making and sharing 8-15 seconds videos online covering the HoC event (highly recommended but not necessary)
 
 #### Wing Coordinators
-TBD
++ Dhanshree Nirgude
++ Varun Choudhary
 
 #### Key Deadlines
-(will be updated as the program moves ahead)
+##### By 24th November
++ Take control of all the social media handles which needs to be engaged and monitored during the whole event.
++ With the help of GD team and OC team prepare a social media strategy to abide by and a roadmap to be followed from the 25th November 2019, Monday.
+
+##### By 30th November
++ Post school confirmation and encouragement content along with all experiences videos and pictures on social media in close coordination with GD wing.
++ Share the posts online and also digitally to all the volunteers motivating them to positively engage and share with the platform of their choice.
+
+##### During HoC
++ Regular posts as the event happens. Use engaging channels like WhatsApp, Instagram, etc, stories to broadcast events as they are happening across the schools.
++ Follow the content roadmap as planned by the wing.
 
 ### 5. Graphic Designing
 #### Role & Responsibilities
@@ -105,10 +141,14 @@ TBD
 + Will also work with EC team in creating flex backgrounds to be printed and distributed between teams going to the schools.
 
 #### Wing Coordinators
-TBD
++ Shubham Vyas
 
 #### Key Deadlines
-(will be updated as the program moves ahead)
+##### By 24th November
++ Create list of key assets which needs to be created like logos and branding content.
+
+##### By 30th November
++ Help VGT, SOM and OPS wings in their goals with the media and graphics.
 
 ### 6. Event Coordination
 #### Role & Responsibilities
@@ -120,10 +160,22 @@ TBD
 + Collect photographs, feedback form and ensure all post-event formalities are completed.
 
 #### Wing Coordinators
-TBD
++ Aniruddh Parwal
++ Udit Sen
++ Adeen Shukla
 
 #### Key Deadlines
-(will be updated as the program moves ahead)
+##### By 24th November
++ Prepare the list of offline and physical assets which will be required with their estimated number of quantity which needs to be ordered. Use the feedback and input from AFM wing to ensure proper budgeting of the same.
++ With the help of GD wing finalize the content which needs to be printed before the HoC starts and handle the whole logistics behind the same (from order to delivery to distribution).
+
+##### By 30th November
++ As the SOM wing starts dispatching the list of schools on-boarded and the potential dates which they are interested in, start using the dashboard excel sheet to allot volunteers and inform the volunteers about their day allotment.
++ Ensure that proper resources are reserved for each time as it is necessary.
+
+##### During HoC
++ EC team is going to be the 911 team handling all emergencies during the event. Including absence of allotted volunteers, need of backup due to unexpectedly large number of students, etc.
++ EC team will ensure all the teams are ready with all the things require and confirm their attendance a day prior to the next schedule and make any necessary changes or arrangements as necessary.
 
 ### 7. Information Technology
 #### Role & Responsibilities
@@ -137,7 +189,16 @@ TBD
 + Automation activities to ease the management at various levels.
 
 #### Wing Coordinators
-TBD
++ Harshit Jain
++ Krish Lalwani
 
 #### Key Deadlines
-(will be updated as the program moves ahead)
+##### By 24th November
++ Plan the landing page with inputs from GD and OPS and OC teams.
++ Design and host the initial version. 
++ Help VGT team in creating template proposal which could be mailed to potential schools along with a HoC signature.
+
+##### By 30th November
++ Along with the VGT team, ensure that all the content created for training is hosted properly on online channels like GDrive and GitHub.
++ Monitor the official mail and also send out template proposals whenever asked. 
++ Track the conversion (if possible) and also monitor the social media activity along with the OPS team.

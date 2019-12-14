@@ -4,6 +4,10 @@ This document explains different coordination wings in which HOC Indore executio
 + [Jump to wings description & key deadlines information](#wings)
 + [See the master list of all volunteers](volunteers-list-hoc-2019-indore.pdf)
 
+
+### Note
+In case of any doubt, please contact the author of the document, the repository, and the overall program structure: [@gc-codes](https://github.com/gc-codes/)
+
 ## The Phases
 To start out, it is imperative to first revise the execution phases as decided.
 
